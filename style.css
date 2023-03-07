@@ -6,7 +6,7 @@ html {
 
 h1 {
   font-family: FOT-NewRodin Pro;
-  src: url("fonts/NewRodin.otf") format("opentype");
+  src: url("/fonts/NewRodin.otf") format("opentype");
   color: #ffffff
 }
 
