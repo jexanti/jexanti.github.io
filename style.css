@@ -6,16 +6,26 @@ html {
 
 h1 {
   font-family: FOT-NewRodin Pro;
-  src: url("/fonts/NewRodin.otf") format("opentype");
+  src: url("/fonts/FOTNewRodinProEB.otf") format("opentype");
+  color: #ffffff
+}
+
+h2 {
+  font-family: FOT-NewRodin Pro;
+  src: url("/fonts/FOTNewRodinProB.otf") format("opentype");
   color: #ffffff
 }
 
 body {
+  font-family: FOT-NewRodin Pro;
+  src: url("/fonts/FOTNewRodinProL.otf") format("opentype");
   color: #d1d1d1
 }
 
 
 .button {
+  font-family: FOT-NewRodin Pro;
+  src: url("/fonts/FOTNewRodinProDB.otf") format("opentype");
   border: none;
   color: #ffffff;
   padding: 16px 32px;
@@ -31,12 +41,14 @@ body {
 .button1 {
   background-color: #1b1b1b; 
   font-family: FOT-NewRodin Pro;
-  src: url("fonts/NewRodin.otf") format("opentype");
+  src: url("/fonts/FOTNewRodinProDB.otf") format("opentype");
   color: #ffffff; 
   border: 2px solid #157D73;
 }
 
 .button1:hover {
+  font-family: FOT-NewRodin Pro;
+  src: url("/fonts/FOTNewRodinProB.otf") format("opentype");
   background-color: #157D73;
-  color: #ffffff;
+  color: white;
 }
