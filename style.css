@@ -2,6 +2,7 @@ html {
   height: 100%;
   width: 100%;
   /* background-color: #1b1b1b; */
+  background-image: url('/assets/background_tile.png');
 }
 
 h1 {
@@ -20,7 +21,6 @@ body {
   font-family: FOT-NewRodin Pro;
   src: url("/fonts/FOTNewRodinProL.otf") format("opentype");
   color: #d1d1d1;
-  background-image: url('/assets/background_tile.png');
 }
 
 
