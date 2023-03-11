@@ -21,6 +21,7 @@ body {
   font-family: FOT-NewRodin Pro;
   src: url("/fonts/FOTNewRodinProL.otf") format("opentype");
   color: #d1d1d1;
+  background-color: #ffffff00;
 }
 
 
